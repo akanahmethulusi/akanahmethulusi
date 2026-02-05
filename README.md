@@ -25,7 +25,7 @@
 
 #### 📌 Ausgewählte Projekte
 - 🚀 **Java Spring Boot Reactive + Vuejs Rentcar Application**   
-  👉 [https://github.com/akanahmethulusi/Java-Vue-E-Shop-App](https://github.com/akanahmethulusi/Java-Springreactive-Vuejs-rentcar-app)
+  👉 [https://github.com/akanahmethulusi/Java-Springreactive-Vuejs-rentcar-app](https://github.com/akanahmethulusi/Java-Springreactive-Vuejs-rentcar-app)
 
   
 - 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert.
