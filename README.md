@@ -8,7 +8,7 @@
 ## 👨‍💻 Über mich
 - 🔭 Aktuell arbeite ich an: **Spring Boot, React, Vuejs**
 - 🌱 Ich lerne gerade: **AI & Pyhton**
-- 💬 Frag mich über: **Spring Boot, React, Vuejs, Angullar, JavaScript, Python, Git, HTML5, CSS3**
+- 💬 Frag mich über: **Spring Boot, React, Vuejs, Angular, JavaScript, Python, Git, HTML5, CSS3**
 - ⚡ Fun Fact: Ich debugge lieber morgen früh ab 5 Uhr.
 
 
