@@ -28,7 +28,7 @@
   👉 [https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App](https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App)
 
   
-- 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert.**
+- 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert**
   👉 [https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel](https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel)
 
 
