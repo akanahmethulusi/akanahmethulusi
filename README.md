@@ -28,19 +28,19 @@
   👉 [https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App](https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App)
 
   
-- 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert**     
+- 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert       
   👉 [https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel](https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel)
 
 
-- 🚀 **spring-boot-webflux** – Es nutzt das reaktive Programmiermodell von Project Reactor (Mono und Flux) und läuft in einem Docker-Container**     
+- 🚀 **spring-boot-webflux** – Es nutzt das reaktive Programmiermodell von Project Reactor (Mono und Flux) und läuft in einem Docker-Container       
   👉 [https://github.com/akanahmethulusi/spring-boot-webflux](https://github.com/akanahmethulusi/spring-boot-webflux)
 
 
-- 🚀 **auto-management** – Full stack ReactJS with Spring boot project and PostgreSQL**     
+- 🚀 **auto-management** – Full stack ReactJS with Spring boot project and PostgreSQL       
   👉 [https://github.com/akanahmethulusi/auto-management](https://github.com/akanahmethulusi/auto-management)
 
 
-- 🚀 **spring-mvc-currencyConvert-refactoring-with-thymeleaf** – eine modulare und erweiterbare UmrechnungsAnwendung mit Spring Boot + Thymeleaf**     
+- 🚀 **spring-mvc-currencyConvert-refactoring-with-thymeleaf** – eine modulare und erweiterbare UmrechnungsAnwendung mit Spring Boot + Thymeleaf       
   👉 [https://github.com/akanahmethulusi/spring-mvc-currencyConvert-refactoring-with-thymeleaf-latest](https://github.com/akanahmethulusi/spring-mvc-currencyConvert-refactoring-with-thymeleaf-latest)
 
 
