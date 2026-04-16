@@ -29,7 +29,6 @@
 
 
 - 🚀 **WebMCP**
-
   👉 [https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page](https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page)
   
   
