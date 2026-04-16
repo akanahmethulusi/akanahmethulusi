@@ -28,7 +28,8 @@
   👉 [https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App](https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App)
 
 
-- 🚀 **WebMCP**
+- 🚀 **WebMCP** - WebMCP mit Einkaufsliste Beispiel 
+  
   👉 [https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page](https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page)
   
   
