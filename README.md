@@ -24,14 +24,19 @@
 
 
 #### 📌 Ausgewählte Projekte
+
+- 🚀 **Typescript + LLM Connector (MCP)**   
+  👉 [https://github.com/akanahmethulusi/Typescript-LLM-Connector-MCP](https://github.com/akanahmethulusi/Typescript-LLM-Connector-MCP)
+
+
 - 🚀 **Java Spring Boot Reactive + Vuejs Rentcar Application**   
   👉 [https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App](https://github.com/akanahmethulusi/Java-SpringReactive-Vuejs-RentCar-App)
 
 
-- 🚀 **WebMCP** - WebMCP mit Einkaufsliste Beispiel 
-  
+- 🚀 **WebMCP** - WebMCP mit Einkaufsliste**   
   👉 [https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page](https://github.com/akanahmethulusi/WebMCP-Einkaufliste-Demo-Page)
   
+ 
   
 - 🚀 **Spring Boot Kafka-Beispiel** – In diesem Beispiel wurde mithilfe von Kafka ein Topic erstellt, das als Queue fungiert       
   👉 [https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel](https://github.com/akanahmethulusi/Spring-Boot-Kafka-Beispiel)
